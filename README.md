@@ -1,5 +1,5 @@
 - 👋 Oi, eu sou @jeferson3233
-- 👀 Estou interessado em programão
+- 👀 Estou interessado em progração
 - 🌱 Estou no 1 ano do ensino medio 
 - 💞️ Estou aprendendo a programação em JavaScript
 - 📫 Como chegar até mim pelo e-mail:jeferson.alfonso@escola.pr.gov.br
